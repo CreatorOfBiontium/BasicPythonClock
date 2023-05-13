@@ -3,9 +3,11 @@ By HACKERTBI
 
 
 
-|This software is created just for educational purposes.
 
+|This software is created just for educational purposes.
+|
 |NOTE: This software is distributed only in Czech language.
+
 
 
 Basic Info:
