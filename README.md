@@ -2,6 +2,7 @@
 By HACKERTBI
 
 |This software is created just for educational purposes.
+
 |NOTE: This software is distributed only in Czech language.
 
 
