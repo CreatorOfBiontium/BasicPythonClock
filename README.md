@@ -1,10 +1,10 @@
 # BasicPythonClock
 By HACKERTBI
 
-|
-|This software is created just for educational purposes
-|NOTE: This software is distributed only in Czech language
-|
+|\n
+|This software is created just for educational purposes\n
+|NOTE: This software is distributed only in Czech language\n
+|\n
 
 Basic Info:
  Cretor: HACKERTBI
