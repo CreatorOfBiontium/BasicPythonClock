@@ -9,6 +9,7 @@ By HACKERTBI
 
 
 Basic Info:
+
  Cretor: HACKERTBI
  Licence: MIT
  Developed On: Python 3.11, VS Code, Windows 11 (x64)
@@ -16,6 +17,7 @@ Basic Info:
  
  
 More Info:
+
  I think that this just speaks for itself. The code isn't perfect, but I also think that it is not that bad (XD). 
  The best about this software is that it's just basic function, so you can do whatever you want with it
  (pls fix it for me :( I need it). 
