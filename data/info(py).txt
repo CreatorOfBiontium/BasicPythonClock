@@ -1,0 +1,32 @@
+HODINY
+By HACKERTBI
+- - - - - - -
+*PRE-Relase*
+
+
+Tento software je vytvoren pro edukativni ucely.
+
+
+
+Zakladni Info:
+ Tvurce: HACKERTBI
+ Licence: MIT
+ Developed Platform Info: Python 3.11, VS Code, Windows 11 (x64)
+ Last Info Update: 13. 05. 2023
+
+Vice info o softwaru:
+ Tento software vznikl Za mym ucelem naucit se pracovat s knihovnou Tkinter. 
+ Software neni zcela dokoncen - nadale budou probihat aktualizace. 
+ I presto, ze tento software nema dokoncenou spoustu funkci a nachazi se zde nekolik chyb,
+ je nutne dbat a nadchazejici aktualizace.
+ Software obsahuje nekolik zakladnich funkci jako jsou treba zmena casoveho pasma, 
+ zmena pozadi, pouziti UMO, nebo napr. restartovani aplikace po stisknuti jednoho tlacitka
+
+Planovane aktualizace:
+ 1. Ulozeni casoveho pasma
+ 2. Po restartovani otevrit vsechna okna drive otevrena
+ 3. Zmenit datum na zaklade casoveho pasma
+
+
+------------------
+HACKERTBI (c) 2023
